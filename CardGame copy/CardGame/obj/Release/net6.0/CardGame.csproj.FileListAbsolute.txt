@@ -1,0 +1,15 @@
+/Users/fengruizhang/Projects/CardGame/CardGame/bin/Release/net6.0/CardGame
+/Users/fengruizhang/Projects/CardGame/CardGame/bin/Release/net6.0/CardGame.deps.json
+/Users/fengruizhang/Projects/CardGame/CardGame/bin/Release/net6.0/CardGame.runtimeconfig.json
+/Users/fengruizhang/Projects/CardGame/CardGame/bin/Release/net6.0/CardGame.dll
+/Users/fengruizhang/Projects/CardGame/CardGame/bin/Release/net6.0/CardGame.pdb
+/Users/fengruizhang/Projects/CardGame/CardGame/obj/Release/net6.0/CardGame.csproj.AssemblyReference.cache
+/Users/fengruizhang/Projects/CardGame/CardGame/obj/Release/net6.0/CardGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fengruizhang/Projects/CardGame/CardGame/obj/Release/net6.0/CardGame.AssemblyInfoInputs.cache
+/Users/fengruizhang/Projects/CardGame/CardGame/obj/Release/net6.0/CardGame.AssemblyInfo.cs
+/Users/fengruizhang/Projects/CardGame/CardGame/obj/Release/net6.0/CardGame.csproj.CoreCompileInputs.cache
+/Users/fengruizhang/Projects/CardGame/CardGame/obj/Release/net6.0/CardGame.dll
+/Users/fengruizhang/Projects/CardGame/CardGame/obj/Release/net6.0/refint/CardGame.dll
+/Users/fengruizhang/Projects/CardGame/CardGame/obj/Release/net6.0/CardGame.pdb
+/Users/fengruizhang/Projects/CardGame/CardGame/obj/Release/net6.0/CardGame.genruntimeconfig.cache
+/Users/fengruizhang/Projects/CardGame/CardGame/obj/Release/net6.0/ref/CardGame.dll

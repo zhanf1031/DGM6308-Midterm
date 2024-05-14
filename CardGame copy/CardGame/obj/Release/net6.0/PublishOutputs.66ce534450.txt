@@ -1,0 +1,5 @@
+/Users/fengruizhang/Downloads/CardGame
+/Users/fengruizhang/Downloads/CardGame.dll
+/Users/fengruizhang/Downloads/CardGame.deps.json
+/Users/fengruizhang/Downloads/CardGame.runtimeconfig.json
+/Users/fengruizhang/Downloads/CardGame.pdb
